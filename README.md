@@ -1,2 +1,2 @@
 # sample-repo
-Git演習用
+更新
